@@ -15,20 +15,20 @@ THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 Using these modded xml files could break the functioning of your DAYZ server, requiring a reinstall that would wipe
 all player progress.
 
-Using these modded xml files neccessitates increased regular restarts to prevent server crashing.
+Using these modded xml files necessitates increased regular restarts to prevent server crashing.
 
 It is suggested you thoroughly test your server after applying these files to ensure proper
 functioning of your server.
 
-To install these files simply reset your XMLS to default, then upload these over the top of your existing files and restart your server.
+To install these files simply reset your XMLs to default, then upload these over the top of your existing files and restart your server.
 
 These XML files will add a one-off Trader Truck parked outside the shop in Novy Sobor. ("VehicleTruckTrader") DONE.
 
 A special "Event" tuck ("VehicleTruckEvent") has also been added. The "event truck" spawns in at the top of the Ski Run in the West,
 and the idea behind it is that it is a "spare" truck that you can load up with whatever you like (edit its entry in cfgspawnabletypes),
-and it won't appear anywhere else. I wanted a truck that I could fill with weapons, or NVG, or Hesco crates, or barrels, or tents  etc,
-that could be used to "create" events elsewhere in the map eg laying out a race track at NWAF, or putting tents down for a Conquest type
-PvP event etc - in otherwords a simple way a server owner can easily spawn in a lot of items and them have the ability to drive them somewhere.
+and it won't appear anywhere else. I wanted a truck that I could fill with weapons, or NVGs, or Hesco crates, or barrels, or tents  etc.
+that could be used to "create" events elsewhere in the map e.g. laying out a race track at NWAF, or putting tents down for a Conquest type
+PvP event etc - in other words a simple way that a server owner can easily spawn in a lot of items and then have the ability to drive them somewhere.
 
 ***** Please note, as of 1.26, these two events are disabled (0) be default. If you want to use them, enbable them in events.xml (1). *****
 
@@ -44,7 +44,7 @@ Latest 1.25 item, SV 98 / VS 89 Sniper Rifle added, will spawn with mag and a sc
 
 Latest 1.24 items added - Vikhr gun & mag, new helmets. Guns now have a chance of spawning with bullets, even if no mag.
 
-Latest 1.23 items added inc m14 DMR, hats, etc.
+Latest 1.23 items added inc. M14 DMR, hats, etc.
 
 Lots of items spawn in pristine. (New damage system now means a few items will spawn with damage.) DONE.
 
@@ -68,13 +68,13 @@ Sarka (Sedan_02) as above with spade, lime, packs of seeds. DONE.
 
 Except:
 
-Mixed Rusty ADA (offroadhatchback) spawns with gas, egg, M4A1, Stock, Scope, 2x mags (2 x Supressor?) 2 x Ammo Boxes, weapon repair kit, food and drink, combat knife, deagle, 2 x mags, box of ammo, 2 x supressors, handgun scope. DONE.
+Mixed Rusty ADA (offroadhatchback) spawns with gas, egg, M4A1, Stock, Scope, 2x mags (2 x Suppressor?) 2 x Ammo Boxes, weapon repair kit, food and drink, combat knife, deagle, 2 x mags, box of ammo, 2 x supressors, handgun scope. DONE.
 
 Mixed Rusty Olga spawns with gas, egg, VSS, Stock, scope, 2 x mags 2 x ammo boxes, weapon repair kit, food and drink combat knife, deagle, 2 x mags, box of ammo, 2 x supressors, handgun scope DONE
 
-Mixed Rust Gunter spawns with gas, egg,  Asval, stock, scope, 2 x mags, 2 x ammo boxes, weapon repair kit food and drink combat knife, deagle, 2 x mags, box of ammo, 2 x supressors, handgun scope DONE
+Mixed Rust Gunter spawns with gas, egg,  ASVAL, stock, scope, 2 x mags, 2 x ammo boxes, weapon repair kit food and drink combat knife, deagle, 2 x mags, box of ammo, 2 x supressors, handgun scope DONE
 
-Mixed Rusty Sarka spawns with gas, egg, Draganov, stock, scope, 2 x mags, ammo boxes (2 x supressor?) weapon repair kit combat knife, deagle, 2 x mags, box of ammo, 2 x supressors, handgun scope DONE
+Mixed Rusty Sarka spawns with gas, egg, Dragunov, stock, scope, 2 x mags, ammo boxes (2 x supressor?) weapon repair kit combat knife, deagle, 2 x mags, box of ammo, 2 x supressors, handgun scope DONE
 
 Increase potential heli crash sites.  DONE.
 
@@ -84,7 +84,7 @@ Most non-weapons removed from heli-crashes. DONE.
 
 Duct Tape & sharpening stone spawns increased. DONE.
 
-More sterilysing agents spawn in. DONE.
+More sterilising agents spawn in. DONE.
 
 More NBC PPE spawns in, civilian & military. DONE.
 
@@ -92,7 +92,7 @@ More Gas Masks spawn in, more filters spawn in. DONE.
 
 More Gas Pen spawns in, added to medic spawns. DONE.
 
-Increased number of Axes, including coloured varients DONE.
+Increased number of Axes, including coloured variants DONE.
 
 More knives spawn in. DONE.
 
@@ -108,7 +108,7 @@ Guns should spawn with mags & suppressors, if they take one. DONE.
 
 More suppressors. DONE.
 
-Coloured Variants of Assault Rifles and Moisins spawn. (AR's mainly In gas area at Rify & Pavolovo) DONE
+Coloured Variants of Assault Rifles and Moisins spawn. (ARs mainly in gas area at Rify & Pavolovo) DONE
 
 Slightly More Ammo. DONE.
 
@@ -116,7 +116,7 @@ Slightly more food. Slightly more drink. DONE.
 
 More Wire spawns in. DONE.
 
-More collapsable barriers spawn in. DONE.
+More collapsible barriers spawn in. DONE.
 
 More stones spawn in along coast. DONE.
 
@@ -126,7 +126,7 @@ MORE NVG MORE 9V BATTs. DONE.
 
 More medical supplies. DONE.
 
-Some surprises. - pumpkin helms - weed - alchol - cigs - oil - defib - easter eggs . DONE.
+Some surprises. - pumpkin helmets - weed - alcohol - cigs - oil - defibrillator - easter eggs . DONE.
 
 8 hour server restart with simple countdown. 
 
